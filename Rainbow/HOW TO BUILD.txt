@@ -1,1 +1,0 @@
-Assuming you're on linux, using bash, and have the gcc compiler suite with SDL2 installed, just run Build.sh on bash.
